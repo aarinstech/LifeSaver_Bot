@@ -1,0 +1,6 @@
+setup 1 is for installation of python and pip. #optional if you have it installed in your machine already.
+setup 2 is for installation of required packages and modules of python.
+setup 3 is for setting and saving up the bot's required information to run smoothly.
+finally you can use run to use the bot.
+
+@aarinstech
